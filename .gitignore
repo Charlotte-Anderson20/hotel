@@ -1,1 +1,9 @@
-node_modules
+<<<<<<< HEAD
+# your local version
+node_modules/
+.env
+=======
+# GitHub version
+*.log
+.DS_Store
+>>>>>>> main
